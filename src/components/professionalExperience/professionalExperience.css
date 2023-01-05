@@ -1,0 +1,21 @@
+.projects {
+    padding: 2rem 4rem 0%;
+}
+
+.history h3 {
+    text-align: center;
+}
+
+.projects h4 {
+    padding-bottom: 0.5rem;
+    font-size: 1.3rem;
+}
+
+.projects p {
+    padding-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+.projects ul {
+    font-size: 1.2rem;
+}

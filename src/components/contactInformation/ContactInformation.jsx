@@ -27,7 +27,7 @@ const ContactInformation = () => {
                     </h5></a>
                 </div>
                 <div className="jobTitle">
-                    <h5>{<GoDeviceDesktop/>} Web Developer</h5>
+                    <h5>{<GoDeviceDesktop/>} Software Engineer</h5>
                 </div>
             </div>
         </div>

@@ -1,0 +1,14 @@
+.skills {
+    padding: 2rem 0%;
+}
+
+.skills h4 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.skillsList {
+    display: flex;
+    font-size: 1.2rem;
+    padding: 0% 4rem 0%;
+}

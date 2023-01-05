@@ -20,8 +20,8 @@ function App() {
         <div className="App">
             <ContactInformation />
             <ResumeIntroduction />
-            <ProfessionalExperience />
             <Skills />
+            <ProfessionalExperience />
             <Education />
             <TrainingCertification />
             <LanguagesSKills />

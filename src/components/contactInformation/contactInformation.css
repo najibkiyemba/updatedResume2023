@@ -2,15 +2,18 @@
     border: black solid;
     padding: 2rem;
     margin: 2rem;
+    text-align: center;
 }
+
+
 
 .resumeHeader {
     display: flex;
-    /*justify-items: center;*/
     justify-content: center;
-    font-size: 1rem;
-    font-weight: bolder;
-    gap: 1.5rem;
+    gap: 1rem;
     padding-top: 1.6rem;
-    /*flex-wrap: wrap;*/
+    text-align: center;
+    font-size: 1.7vw;
+    color: rgba(0, 0, 0, 0.673);
+
 }
