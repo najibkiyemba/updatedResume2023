@@ -1,4 +1,4 @@
-.projects {
+.developer {
     padding: 2rem 4rem 0%;
 }
 
@@ -6,16 +6,21 @@
     text-align: center;
 }
 
-.projects h4 {
+.developer h4 {
     padding-bottom: 0.5rem;
     font-size: 1.3rem;
 }
 
-.projects p {
+.developer p {
     padding-bottom: 0.5rem;
     font-size: 1rem;
 }
 
-.projects ul {
+.developer ul {
     font-size: 1.2rem;
+}
+
+.developer ul li {
+    padding: 0.6rem;
+
 }
