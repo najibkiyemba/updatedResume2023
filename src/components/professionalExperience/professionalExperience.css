@@ -7,13 +7,14 @@
 }
 
 .developer h4 {
-    padding-bottom: 0.5rem;
     font-size: 1.3rem;
+    padding: 0% 0% 0.5rem 1rem;
 }
 
 .developer p {
-    padding-bottom: 0.5rem;
     font-size: 1rem;
+    padding: 0% 0% 0.5rem 1rem;
+
 }
 
 .developer ul {
