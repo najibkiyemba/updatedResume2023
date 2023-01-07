@@ -29,7 +29,7 @@ const Education = () => {
                 <div className="roles">
                     <ul>
                         <li>Completed and passed web development classes using HTML and CSS.</li>
-                        <li>Wrote about 3-5 eassays using more than 2000 words in each.</li>
+                        <li>Wrote about 3-5 eassays using more than 2000 words in each eassay.</li>
                         <li>Wrote a paper about Internet of Things(IOT)</li>
                     </ul>
                 </div>
