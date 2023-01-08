@@ -1,6 +1,6 @@
 import React from "react";
 import "./skills.css";
-
+import {GiSkills} from "react-icons/gi";
 
 
 
@@ -8,7 +8,7 @@ const Skills = () => {
 
     return (
         <div className="skills">
-            <h4>Skills</h4>
+            <h3>{<GiSkills/>} SKILLS</h3>
             <div className="skillsList">
                 <ul>
                     <li>HTML/CSS</li>

@@ -1,5 +1,6 @@
 import React from "react";
 import "./resumeIntroduction.css";
+import {MdOutlineSummarize} from "react-icons/md";
 
 const resumeData = {
     introduction: `Independent web developer with a strong experience working
@@ -15,7 +16,7 @@ const ResumeIntroduction = () => {
     return (
         <div className="resumeIntro">
             <div className="introduction">
-                <h3>SUMMARY</h3>
+                <h3>{<MdOutlineSummarize/>} SUMMARY</h3>
                 <p id="summary">{resumeData.introduction}</p>
             </div>
         </div>

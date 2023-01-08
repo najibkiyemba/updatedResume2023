@@ -1,5 +1,6 @@
 import React from "react";
 import "./education.css";
+import {FaUserGraduate} from "react-icons/fa";
 
 
 
@@ -8,7 +9,7 @@ const Education = () => {
 
     return (
         <div className="education">
-            <h1>EDUCATION</h1>
+            <h3>{<FaUserGraduate/>} EDUCATION</h3>
             <div className="highSchool">
                 <h4>High School Diploma</h4>
                 <p>Excel Center South Bend, Idiana.</p>

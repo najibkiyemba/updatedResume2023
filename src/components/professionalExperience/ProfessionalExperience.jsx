@@ -1,11 +1,12 @@
 import React from "react";
 import "./professionalExperience.css";
+import {FaHistory} from "react-icons/fa";
 
 const ProfessionalExperience = () => {
     return (
         <div className="professionalExpe">
             <div className="history">
-                <h3>WORK EXPERIENCE</h3>
+                <h3>{<FaHistory/>} WORK EXPERIENCE</h3>
                 <div className="developer">
                     <h4>WEB DEVELOPER</h4>
                     <p>Personal Projects. <span>Feb 2022 - Present</span></p>

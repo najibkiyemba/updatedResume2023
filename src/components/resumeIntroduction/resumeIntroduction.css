@@ -9,3 +9,8 @@
     font-size: 1.3rem;
     font-weight: lighter;
 }
+
+.introduction h3 {
+    display: inline-flex;
+    font-size: 1.5rem;
+}

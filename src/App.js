@@ -18,17 +18,17 @@ import HobbiesInterests from './components/optionalParts/hobbiesAndInterests/Hob
 function App() {
     return (
         <div className="App">
-            <ContactInformation />
-            <ResumeIntroduction />
-            <Skills />
-            <ProfessionalExperience />
-            <Education />
-            <TrainingCertification />
-            <LanguagesSKills />
-            <ProjectsFreelanceWork />
-            <VolunteerWork />
-            <AwardsAndHonor />
-            <HobbiesInterests />
+            <ContactInformation/>
+            <ResumeIntroduction/>
+            <Skills/>
+            <ProfessionalExperience/>
+            <Education/>
+            <TrainingCertification/>
+            <LanguagesSKills/>
+            <ProjectsFreelanceWork/>
+            <VolunteerWork/>
+            <HobbiesInterests/>
+            <AwardsAndHonor/>
         </div>
     );
 }

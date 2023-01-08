@@ -2,13 +2,18 @@
     padding: 2rem 0%;
 }
 
-.skills h4 {
+.skills h3 {
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 
 .skillsList {
     display: flex;
     font-size: 1.2rem;
-    padding: 0% 4rem 0%;
+    padding: 2rem 4rem;
+    padding-bottom: 0.7rem;
+}
+
+ul li {
+    padding: 0% 0% 0.8rem;
 }

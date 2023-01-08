@@ -1,8 +1,10 @@
 .contactInfo {
-    border: black solid;
+    border: black solid 0.16rem;
+    border-style: dotted;
     padding: 2rem;
     margin: 2rem;
     text-align: center;
+    position: sticky;
 }
 
 
@@ -15,5 +17,11 @@
     text-align: center;
     font-size: 1.7vw;
     color: rgba(0, 0, 0, 0.673);
+}
 
+@media screen and (max-width: 1024px){
+    .resumeHeader {
+        font-size: 0.68rem;
+        font-weight: bold;
+    }
 }
