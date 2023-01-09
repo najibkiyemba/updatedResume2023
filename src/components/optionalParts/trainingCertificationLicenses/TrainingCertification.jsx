@@ -1,4 +1,8 @@
 import React from "react";
+import { Slide } from 'react-slideshow-image';
+import 'react-slideshow-image/dist/styles.css'
+
+
 import "./trainingCertification.css";
 import {TbCertificate} from "react-icons/tb";
 import IMGRevature from "../../../assets/IMGRevature.jpg";
@@ -88,16 +92,18 @@ const TrainingCertification = () => {
         <div className="trainingCerti">
             <h3>{<TbCertificate/>} TRAINING & CERTIFICATION</h3>
             <div className="training">
-                {
-                    trainingCertification.map((task) => (
-                        <div className="items">
-                            <h4>{task.title}</h4>
-                            <p>{task.company}</p>
-                            <p>{task.role}</p>
-                            <img alt="revature" src={task.Image}/>
-                        </div>
-                    ))
-                }
+                <Slide>
+                    {
+                        trainingCertification.map((task) => (
+                            <div key={task.id} className="items">
+                                <h4>{task.title}</h4>
+                                <p>{task.company}</p>
+                                <p>{task.role}</p>
+                                <img alt="revature" src={task.Image}/>
+                            </div>
+                        ))
+                    }
+                </Slide>
             </div>
         </div>
     )
