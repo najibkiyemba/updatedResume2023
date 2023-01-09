@@ -2,8 +2,36 @@
     text-align: center;
     padding-top: 1rem;
     padding-bottom: 2rem;
+    font-size: 1.4rem;
+    resize: none;
 }
 
-.trainingCerti h3 {
-    font-size: 1.5rem;
+.items img {
+    height: 25rem;
+    width: 23rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    padding-top: 0.8rem;
 }
+
+
+.training {
+    border: 3px black solid;
+    border-style: dotted;
+    margin: 2rem 2rem;
+    padding: 2rem 2rem;
+    border-radius: 2rem;
+}
+
+@media screen and (max-width: 1024px){
+    .trainingCerti.training {
+        flex-direction: row;
+    }
+}
+
+.items p {
+    padding: 0.4rem 0rem 0rem 0rem;
+
+}
+
+
