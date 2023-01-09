@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/updatedResume2023/static/css/main.44ad97d4.css",
+    "main.css": "/updatedResume2023/static/css/main.6743330a.css",
     "main.js": "/updatedResume2023/static/js/main.a0e8b5ea.js",
     "static/media/pythonBasics.jpg": "/updatedResume2023/static/media/pythonBasics.73d52fa72b38177c2e82.jpg",
     "static/media/gettingPyt.jpg": "/updatedResume2023/static/media/gettingPyt.99735ec1f562f7abb0c7.jpg",
@@ -12,11 +12,11 @@
     "static/media/generation.jpg": "/updatedResume2023/static/media/generation.9074184a4ab87867f909.jpg",
     "static/media/W3school.jpg": "/updatedResume2023/static/media/W3school.7d4b26cda488129f05e2.jpg",
     "index.html": "/updatedResume2023/index.html",
-    "main.44ad97d4.css.map": "/updatedResume2023/static/css/main.44ad97d4.css.map",
+    "main.6743330a.css.map": "/updatedResume2023/static/css/main.6743330a.css.map",
     "main.a0e8b5ea.js.map": "/updatedResume2023/static/js/main.a0e8b5ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.44ad97d4.css",
+    "static/css/main.6743330a.css",
     "static/js/main.a0e8b5ea.js"
   ]
 }
