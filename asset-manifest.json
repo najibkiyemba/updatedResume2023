@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/updatedResume2023/static/css/main.b8bdbb52.css",
-    "main.js": "/updatedResume2023/static/js/main.db607008.js",
+    "main.css": "/updatedResume2023/static/css/main.4eb6c204.css",
+    "main.js": "/updatedResume2023/static/js/main.9f68c9d2.js",
     "static/media/pythonBasics.jpg": "/updatedResume2023/static/media/pythonBasics.73d52fa72b38177c2e82.jpg",
+    "static/media/IMGRevature.jpg": "/updatedResume2023/static/media/IMGRevature.3924ea6ae6907bab9f2a.jpg",
     "static/media/gettingPyt.jpg": "/updatedResume2023/static/media/gettingPyt.99735ec1f562f7abb0c7.jpg",
     "static/media/pyFunction.jpg": "/updatedResume2023/static/media/pyFunction.0aa077c8576a70e41618.jpg",
     "static/media/Grammar.jpg": "/updatedResume2023/static/media/Grammar.34062e7e4d588e3111aa.jpg",
     "static/media/HTML.jpg": "/updatedResume2023/static/media/HTML.0d230e74bf7a4c60af7d.jpg",
     "static/media/Aws.jpg": "/updatedResume2023/static/media/Aws.12000e272fe91ad35e58.jpg",
-    "static/media/IMGRevature.jpg": "/updatedResume2023/static/media/IMGRevature.6a168dd01ef3463ec4d4.jpg",
+    "static/media/MLbusiness.jpg": "/updatedResume2023/static/media/MLbusiness.23da9e8c87800c3fbc9a.jpg",
+    "static/media/MLessentials.jpg": "/updatedResume2023/static/media/MLessentials.d7ba74a71c5b153fa508.jpg",
+    "static/media/PMcrisp.jpg": "/updatedResume2023/static/media/PMcrisp.2ef4918d6452f1957486.jpg",
+    "static/media/MLterminolog.jpg": "/updatedResume2023/static/media/MLterminolog.40fbd49d145789d94d16.jpg",
+    "static/media/ExploringML.jpg": "/updatedResume2023/static/media/ExploringML.1d680311ad7213fc8e2a.jpg",
+    "static/media/Demystifying.jpg": "/updatedResume2023/static/media/Demystifying.e253a93fd95fadd60365.jpg",
     "static/media/generation.jpg": "/updatedResume2023/static/media/generation.9074184a4ab87867f909.jpg",
     "static/media/W3school.jpg": "/updatedResume2023/static/media/W3school.7d4b26cda488129f05e2.jpg",
     "index.html": "/updatedResume2023/index.html",
-    "main.b8bdbb52.css.map": "/updatedResume2023/static/css/main.b8bdbb52.css.map",
-    "main.db607008.js.map": "/updatedResume2023/static/js/main.db607008.js.map"
+    "main.4eb6c204.css.map": "/updatedResume2023/static/css/main.4eb6c204.css.map",
+    "main.9f68c9d2.js.map": "/updatedResume2023/static/js/main.9f68c9d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8bdbb52.css",
-    "static/js/main.db607008.js"
+    "static/css/main.4eb6c204.css",
+    "static/js/main.9f68c9d2.js"
   ]
 }
