@@ -7,8 +7,10 @@
 }
 
 .items img {
-    height: 25rem;
-    width: 23rem;
+    /*height: 25rem;
+    width: 23rem;*/
+    max-width: 100%;
+    height: auto/9;
     border-radius: 2rem;
     cursor: pointer;
     padding-top: 0.8rem;
