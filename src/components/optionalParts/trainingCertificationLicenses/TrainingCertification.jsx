@@ -2,7 +2,6 @@ import React from "react";
 import { Slide } from 'react-slideshow-image';
 import 'react-slideshow-image/dist/styles.css'
 
-
 import "./trainingCertification.css";
 import {TbCertificate} from "react-icons/tb";
 import IMGRevature from "../../../assets/IMGRevature.jpg";
@@ -14,6 +13,13 @@ import Aws from "../../../assets/Aws.jpg";
 import HTML from "../../../assets/HTML.jpg";
 import generation from "../../../assets/generation.jpg";
 import W3school from "../../../assets/W3school.jpg";
+import MLessentials from "../../../assets/MLessentials.jpg";
+import MLbusiness from "../../../assets/MLbusiness.jpg";
+import MLterminolog from "../../../assets/MLterminolog.jpg";
+import Demystifying from "../../../assets/Demystifying.jpg";
+import ExploringML from "../../../assets/ExploringML.jpg";
+import PMcrisp from "../../../assets/PMcrisp.jpg";
+
 
 
 
@@ -29,7 +35,7 @@ const trainingCertification = [
     }, 
     {
         id: 2,
-        title: "PYTHOM BASICS",
+        title: "PYTHON BASICS",
         company: "University of Michigan. 2020",
         role: ``,
         Image: pythonBasics
@@ -77,11 +83,53 @@ const trainingCertification = [
         Image: W3school
     },
     {
-        id: 9,
+        id: 10,
         title: "JUNIOR WEB DEVELOPER",
         company: "South Seattle College. 2022",
         role: ``,
         Image: generation
+    },
+    {
+        id: 11,
+        title: "MACHINE LEARNING ESSENTIALS FOR BUSINESS",
+        company: "AWS Training. 2020",
+        role: ``,
+        Image: MLessentials
+    },
+    {
+        id: 12,
+        title: "PROCESS MODEL ON AWS STACK",
+        company: "AWS Training. 2020",
+        role: ``,
+        Image: PMcrisp
+    },
+    {
+        id: 13,
+        title: "ML BUSINESS CHALLENGES",
+        company: "AWS Training. 2020",
+        role: ``,
+        Image: MLbusiness
+    },
+    {
+        id: 14,
+        title: "EXPLORING THE MACHINE LEARNING TOOLSET",
+        company: "AWS Training. 2020",
+        role: ``,
+        Image: ExploringML
+    },
+    {
+        id: 15,
+        title: "MACHINE LEARNING TERMINOLOGY & PROCESS",
+        company: "AWS Training. 2020",
+        role: ``,
+        Image: MLterminolog
+    },
+    {
+        id: 16,
+        title: "DEMYSTIFYING AL/ML/DL",
+        company: "AWS Training. 2020",
+        role: ``,
+        Image: Demystifying
     },
 
 ];
@@ -98,7 +146,7 @@ const TrainingCertification = () => {
                             <div key={task.id} className="items">
                                 <h4>{task.title}</h4>
                                 <p>{task.company}</p>
-                                <p>{task.role}</p>
+                                <p></p>
                                 <img alt="revature" src={task.Image}/>
                             </div>
                         ))
