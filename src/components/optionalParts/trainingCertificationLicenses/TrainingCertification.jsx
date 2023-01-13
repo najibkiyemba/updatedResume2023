@@ -1,6 +1,6 @@
 import React from "react";
 import { Slide } from 'react-slideshow-image';
-import 'react-slideshow-image/dist/styles.css'
+import 'react-slideshow-image/dist/styles.css';
 
 import "./trainingCertification.css";
 import {TbCertificate} from "react-icons/tb";
